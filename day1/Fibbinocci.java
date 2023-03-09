@@ -8,6 +8,7 @@ public class Fibbinocci {
 		int sum ;
 	
 		System.out.println(firstNum);
+		System.out.println(secNum);
 		for (int i = 1; i <= 11; i++) {
 		
 			sum = firstNum + secNum;
